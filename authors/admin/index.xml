@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chenyu</title>
+    <title>Chenyu Dang</title>
     <link>https://dangchenyu.github.io/authors/admin/</link>
-    <description>Recent content on Chenyu</description>
+    <description>Recent content on Chenyu Dang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -16,8 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dangchenyu.github.io/authors/admin/</guid>
-      <description>Current Master student in Nara Institute Of Science And Technology(NAIST),
-          expected to graduate in Sept.2020. Research interest include computer vision(Object detection/Multi-Object Tracking) and ubiquitous computing. Got Bachelor’s degree in vehicle engineering in Chang’an University. Have almost two years work experience in China Chang’an Automobile Group. Willing to face new challenges and looking forward to transforming the advanced AI technologies into creative products.</description>
+      <description>Current Master student in Nara Institute Of Science And Technology(NAIST), expected to graduate in Sept.2020. Research interest include computer vision(Object detection/Multi-Object Tracking) and ubiquitous computing. Got Bachelor’s degree in vehicle engineering in Chang’an University. Have almost two years work experience in China Chang’an Automobile Group. Willing to face new challenges and looking forward to transforming the advanced AI technologies into creative products.</description>
     </item>
     
   </channel>
